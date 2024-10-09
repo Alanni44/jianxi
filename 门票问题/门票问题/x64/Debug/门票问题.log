@@ -1,0 +1,4 @@
+﻿  FileName.cpp
+D:\VS2022\代码\门票问题\FileName.cpp(32,12): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\VS2022\代码\门票问题\FileName.cpp(34,12): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  门票问题.vcxproj -> D:\VS2022\代码\门票问题\x64\Debug\门票问题.exe
